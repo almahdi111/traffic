@@ -294,7 +294,7 @@ foreach ($results as $result)
                                class='btn-close' data-bs-dismiss='modal'
                                aria-label='Close'></button></div>
                        <div class='modal-body' style='height: 100%;width: 100%;'><img
-                               src='".$result["ImagePath"]."'
+                               src='images/12202220202001022022010112565699.jpg'
                                style='height: 100%;width: 100%;'></div>
                        <div class='modal-footer'><button class='btn btn-warning'
                                style='background-color:rgb(255,139,160);' type='button'
